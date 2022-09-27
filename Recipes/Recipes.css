@@ -1,0 +1,33 @@
+body {
+  background-color:chocolate;
+}
+
+h1 {
+  background-color:Green;
+  text-align:center;
+  color:white;
+  font-family:sans-serif;
+}
+
+img {
+  height:350px;
+  width:auto;
+}
+
+.about {
+  font-size:23px;
+  color:white;
+}
+
+.list.heading {
+  font-size:23px;
+  background-color:green; 
+  color:white;
+}
+
+.list {
+  font-size:20px;
+  background-color:orange;
+  font-family:sans-serif;
+}
+

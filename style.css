@@ -1,0 +1,17 @@
+body {
+  background-color:orange;
+}
+h1 {
+  text-align:center;
+  background-color:white;
+  font-family:sans-serif;
+  color:green;
+}
+.list {
+  font-size:23px;
+  background-color:green; 
+  color:violet;
+}
+a {
+  color:white;
+}
